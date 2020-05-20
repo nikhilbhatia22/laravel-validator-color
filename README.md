@@ -1,11 +1,6 @@
 # Validate colors with Laravel 5
-[![Latest Version](https://img.shields.io/github/release/nikhilbhatia22/laravel-validator-color.svg?style=flat-square)](https://github.com/nikhilbhatia22/laravel-validator-color/releases)
+[![Latest Version](https://img.shields.io/github/issues/nikhilbhatia22/laravel-validator-color)](https://github.com/nikhilbhatia22/laravel-validator-color/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://travis-ci.org/nikhilbhatia22/laravel-validator-color.svg?branch=master)](https://travis-ci.org/nikhilbhatia22/laravel-validator-color)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nikhilbhatia22/laravel-validator-color/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nikhilbhatia22/laravel-validator-color/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/nikhilbhatia22/laravel-validator-color/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/nikhilbhatia22/laravel-validator-color/?branch=master)
-[![Dependency Status](https://www.versioneye.com/user/projects/56f3252c35630e0029db0187/badge.svg?style=flat)](https://www.versioneye.com/user/projects/56f3252c35630e0029db0187)
-[![Total Downloads](https://img.shields.io/packagist/dt/nikhilbhatia22/laravel-validator-color.svg?style=flat-square)](https://packagist.org/packages/nikhilbhatia22/laravel-validator-color)
 
 This package will let you validate that a certain value is a valid CSS color string.
 
