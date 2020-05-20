@@ -1,6 +1,6 @@
 <?php
 
-namespace Tylercd100\Validator\Color;
+namespace Nikhilbhatia22\Validator\Color;
 
 class Validator
 {

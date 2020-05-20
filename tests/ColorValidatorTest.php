@@ -1,9 +1,9 @@
 <?php
 
-namespace Tylercd100\Validator\Color\Tests;
+namespace Nikhilbhatia22\Validator\Color\Tests;
 
 use Validator;
-use Tylercd100\Validator\Color\Validator as ColorValidator;
+use Nikhilbhatia22\Validator\Color\Validator as ColorValidator;
 
 class ColorValidatorTest extends TestCase
 {
