@@ -40,5 +40,12 @@
         "orchestra/testbench": "^3.2"
     },
     "suggest": {
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nikhilbhatia22\\Validator\\Color\\ServiceProvider"
+            ]
+        }
     }
 }
