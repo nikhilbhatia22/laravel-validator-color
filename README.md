@@ -1,4 +1,4 @@
-# Validate colors with Laravel 5
+# Validate colors with Laravel 5, 6 and 7
 [![Latest Version](https://img.shields.io/github/issues/nikhilbhatia22/laravel-validator-color)](https://github.com/nikhilbhatia22/laravel-validator-color/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 

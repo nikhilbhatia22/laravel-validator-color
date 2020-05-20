@@ -1,6 +1,6 @@
 {
     "name": "nikhilbhatia22/laravel-validator-color",
-    "description": "Validate that a certain value is a valid CSS color string in Laravel 5",
+    "description": "Validate that a certain value is a valid CSS color string in Laravel 5, 6 and 7",
     "keywords": [
         "laravel",
         "validator",
