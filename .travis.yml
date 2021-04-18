@@ -8,11 +8,11 @@ env:
     matrix:
         - COMPOSER_FLAGS="--prefer-lowest"
         - COMPOSER_FLAGS=""
-        - XDEBUG_MODE=coverage
 
 before_script:
 - travis_retry composer self-update
 - travis_retry composer update ${COMPOSER_FLAGS} --no-interaction --prefer-source
+    - export XDEBUG_MODE=coverage
 
 script:
   - vendor/bin/phpunit
