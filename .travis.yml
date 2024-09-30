@@ -3,6 +3,7 @@ language: php
 php:
     - 7.3
     - 8.0
+    - 8.2
 
 env:
     matrix:
